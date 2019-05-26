@@ -25,10 +25,14 @@
   "gitHead": "c0f6b27bcea5a2ad2e304d91c2e842e4076a6b03",
   "dependencies": {
     "jwa": "^1.4.1",
-    "safe-buffer": "^5.0.1"
+    "safe-buffer": "^5.1.2"
   },
   "devDependencies": {
-    "semver": "^5.1.0",
-    "tape": "~2.14.0"
+    "@types/jest": "^24.0.13",
+    "@types/node": "^12.0.2",
+    "jest": "^24.8.0",
+    "semver": "^6.1.0",
+    "ts-jest": "^24.0.2",
+    "typescript": "^3.4.5"
   }
 }
